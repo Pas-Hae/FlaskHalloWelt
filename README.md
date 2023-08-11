@@ -1,6 +1,6 @@
 # FlaskHalloWelt
-## Projektname
-A Simple Website with Flask that Shows "Hello World!"
+## Projek:
+Eine einfache Webanwendung mit Flask die "Hallo Welt" anzeigt.
 
 ## Beschreibung
 Dieses Projekt demonstriert die Erstellung einer einfachen Webanwendung mit dem Flask-Framework in Python. Wenn auf die Webseite zugegriffen wird, wird die Nachricht "Hello World!" angezeigt.
@@ -14,5 +14,5 @@ Dieses Projekt demonstriert die Erstellung einer einfachen Webanwendung mit dem 
 ### Anzeigen:
 Öffnen Sie Ihren Webbrowser und navigieren Sie zu http://127.0.0.1:5000/.
 
-### Lizenz
+## Lizenz
 Dieses Projekt steht unter der MIT-Lizenz - siehe die LICENSE.md-Datei für Details.
