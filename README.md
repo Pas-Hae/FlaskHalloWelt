@@ -3,7 +3,7 @@
 Eine einfache Webanwendung mit Flask die "Hallo Welt" anzeigt.
 
 ## Beschreibung
-Dieses Projekt demonstriert die Erstellung einer einfachen Webanwendung mit dem Flask-Framework in Python. Wenn auf die Webseite zugegriffen wird, wird die Nachricht "Hello World!" angezeigt.
+Dieses Projekt demonstriert die Erstellung einer einfachen Webanwendung mit dem Flask-Framework in Python. Wenn auf die Webseite zugegriffen wird, wird die Nachricht "Hallo Welt" angezeigt.
 
 ## Installation und Verwendung
 ### Voraussetzungen:
